@@ -1,0 +1,12 @@
+{
+  "NiFiRegistryIp": "10.113.2.158",
+  "NiFiRegistryPort": "18080",
+  "s3.accesskey":"",
+  "s3.secretaccesskey": "",
+  "Create NiFi Instance Interval": "180",
+  "NiFi Start Status Activity": "360",
+  "import Flow Interval": "180",
+  "Nifi Run Flow Interval": "180",
+  "Nifi Check Status Interval": "180",
+  "Destroy Nifi Instance Interval": "180"
+}
